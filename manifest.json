@@ -1,6 +1,6 @@
 {
-  "name": "TC App",
-  "short_name": "TC-App",
+  "name": "Teknikcollege Stenungsund Nyhetsflöde",
+  "short_name": "tcnews",
   "theme_color": "#d39100",
   "background_color": "#337ab7",
   "display": "standalone",
