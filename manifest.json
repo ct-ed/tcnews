@@ -1,0 +1,9 @@
+{
+  "name": "TC App",
+  "short_name": "TC-App",
+  "theme_color": "#d39100",
+  "background_color": "#337ab7",
+  "display": "standalone",
+  "start_url": "index.html",
+  "scope": "."
+}
