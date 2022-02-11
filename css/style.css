@@ -3,6 +3,12 @@ html, body {
   padding: 0;
 }
 
+main h1 {
+  color: #232d37;
+  font-weight: 300;
+  font-size: 2.5rem;
+}
+
 h5 {
   font-weight: 300;
   font-size: 1.25rem;
