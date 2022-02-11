@@ -4750,7 +4750,7 @@ button.bg-dark:focus {
   background-color: transparent !important; }
 
 .border {
-  border: 1px solid #ddd !important; }
+  border: 1px solid rgb(49,130,206) !important; }
 
 .border-top {
   border-top: 1px solid #ddd !important; }

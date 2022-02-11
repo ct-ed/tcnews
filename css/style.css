@@ -1,4 +1,45 @@
-html, body { 
+html, body {
   margin: 0;
   padding: 0;
+}
+
+h5 {
+  font-weight: 300;
+  font-size: 1.25rem;
+  color: #232d37;
+  line-height: 1.5rem;
+}
+
+.card {
+  background: #e8e8e8;
+  color: #4e4e4e;
+}
+
+.card img {
+  z-index: 0;
+  filter: blur(1px);
+  transition-property: filter;
+  transition-duration: 0.5s;
+}
+
+.card img:hover {
+  filter: none;
+}
+
+.card a {
+  float: right;
+}
+
+.card svg {
+  color: rgb(49,130,206);
+  padding: 0.25rem;
+  border: rgb(49,130,206) solid 1px;
+  border-radius: 9999px;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-left: 0.5rem;
+}
+
+.iso8601 {
+  display: none;
 }
